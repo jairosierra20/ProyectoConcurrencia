@@ -1,0 +1,2 @@
+Link de acceso para descargar el DataSet original:
+https://www.kaggle.com/ssliao/wallstreetbets-comment-part1csv?select=wallstreetbets_comment_part3.csv 
